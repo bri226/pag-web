@@ -1,0 +1,8 @@
+.navbar-brand > img {
+      width: 55px;
+}
+
+.navbar-main .active{
+      text-decoration: underline;
+      text-underline-offset: 7px;
+}
